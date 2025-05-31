@@ -1,0 +1,14 @@
+{
+    "name": "khasbi/kedua",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khasbi"
+        }
+    ],
+    "require": {}
+}
